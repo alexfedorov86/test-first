@@ -5,7 +5,7 @@ let h2 = document.querySelector("h2");
 function addText() {
     h2.textContent = "Added by JS";
 }
-
+//Adding test to h2 header
 addText();
 
 // const changecolor = function() {
